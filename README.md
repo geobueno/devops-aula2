@@ -3,6 +3,6 @@ Exercício 1 - DevOps - BD2
 
 3 atores/atrizes
 
-Bruna Markezine
+Bruna Marquezine
 Marlon Brando
 Greta Garbo
